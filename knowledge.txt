@@ -1,0 +1,2 @@
+Okay i got very great insight as well would love to share as well setInterval this thing resolves multiple times and its not the best practise to write a promisified 
+way of setinterval its just only written for a function which only resolves one time max. cool info tho..
